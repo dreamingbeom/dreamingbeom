@@ -7,7 +7,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamingbeom)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gung2227)](https://solved.ac/gung2227/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gung2226)](https://solved.ac/gung2226/)
 
 # 자격증
 
