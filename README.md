@@ -1,21 +1,25 @@
-### Hi there 👋
-안녕하세요! 멋진 개발자로 거듭나고싶은 beom 입니다!
-저는 다양한 웹서비스에 관심을 가지고 있으며 SSAFY 10기 파이썬 트랙 과정을 이수하고 있습니다!  
-이제 시작했지만 1년 뒤 완전히 바뀐 제 프로필을 기대해주세요!😊
+<div align=center>
+  
+<b> Hi there 👋 </b>
+</br>
+<p>안녕하세요! 폭발적인 성장을 원하는 개발자 김경범입니다!</p>
 
-# 학업
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamingbeom)](https://github.com/anuraghazra/github-readme-stats)
-
+<b>✨ Tech Stack</b>
+</br> </br>
+<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+</br>
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white">
+</br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gung2226)](https://solved.ac/gung2226/)
 
-# 자격증
 
-# IT 관심사
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamingbeom)](https://github.com/anuraghazra/github-readme-stats) 
 
-# 기술스택
-<img src="https://img.shields.io/badge/python-BA55D3?style=for-the-badge&logo=python&logoColor=white">
-# Contact
+</div>
 
 
 <!--
